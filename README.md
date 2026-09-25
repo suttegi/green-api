@@ -8,3 +8,9 @@
 npm install
 npm run dev
 ```
+
+## Использование
+
+1. Введите `apiUrl`, `idInstance`, `apiTokenInstance` из личного кабинета GREEN-API.
+2. Нажмите ✎ и введите номер телефона получателя.
+3. Напишите сообщение и нажмите Enter.
